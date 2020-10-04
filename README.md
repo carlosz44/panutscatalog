@@ -8,10 +8,7 @@
   <strong>A <a href="https://www.gatsbyjs.org/">Gatsby</a> starter styled using <a href="https://tailwindcss.com/">Tailwind CSS</a>, a utility-first CSS framework.</strong><br />
   Uses <a href="https://www.purgecss.com/">PurgeCSS</a> to remove unused CSS.<br />
   <br />
-  <br />
 </div>
-  
-<p align="center">View demo <a href="https://gatsby-starter-tailwind.oddstronaut.com/">here</a>.</p>
 
 ## What is Tailwind CSS?
 
