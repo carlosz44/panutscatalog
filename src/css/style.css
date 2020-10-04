@@ -3,3 +3,35 @@
 @tailwind components;
 /*! purgecss end ignore */
 @tailwind utilities;
+
+@layer base {
+  html {
+    @apply smooth text-base;
+  }
+  body {
+    @apply font-roboto;
+  }
+  h2 {
+    @apply font-oswald text-2xl text-p-text;
+  }
+  @screen md {
+    h2 {
+      @apply text-3xl;
+    }
+  }
+}
+
+@layer utilities {
+  .smooth {
+    scroll-behavior: smooth;
+  }
+}
+.p-button {
+  @apply bg-p-red px-6 py-3 text-white text-xl transition duration-500 rounded-md;
+}
+.p-button:hover {
+  @apply bg-gray-900;
+}
+.p-transitions {
+  @apply transition duration-500;
+}
