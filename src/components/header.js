@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from "gatsby";
 import Logo from "./ui/logo";
 import Cart from "./ui/cart";
+// import { slide as Menu } from "react-burger-menu";
 
 function Header() {
   const [isExpanded, toggleExpansion] = useState(false);

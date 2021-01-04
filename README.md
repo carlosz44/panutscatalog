@@ -4,12 +4,6 @@
   <img src="https://image.ibb.co/cJjPN7/gatsby_tailwind.png" alt="Gatsby and Tailwind CSS logos">
 </div>
 
-<div align="center">
-  <strong>A <a href="https://www.gatsbyjs.org/">Gatsby</a> starter styled using <a href="https://tailwindcss.com/">Tailwind CSS</a>, a utility-first CSS framework.</strong><br />
-  Uses <a href="https://www.purgecss.com/">PurgeCSS</a> to remove unused CSS.<br />
-  <br />
-</div>
-
 ## What is Tailwind CSS?
 
 > "Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces."
